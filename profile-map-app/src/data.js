@@ -1,0 +1,178 @@
+export const profiles = [
+  {
+    id: 1,
+    name: 'John Doe',
+    photo: 'https://randomuser.me/api/portraits/men/1.jpg',
+    description: 'A software engineer with a passion for coding.',
+    address: {
+      lat: 40.7128,
+      lon: -74.0060,
+      addressLine: 'New York, NY, USA',
+    },
+  },
+  {
+    id: 2,
+    name: 'Jane Smith',
+    photo: 'https://randomuser.me/api/portraits/women/1.jpg',
+    description: 'A creative graphic designer who loves art.',
+    address: {
+      lat: 34.0522,
+      lon: -118.2437,
+      addressLine: 'Los Angeles, CA, USA',
+    },
+  },
+  {
+    id: 3,
+    name: 'Alice Johnson',
+    photo: 'https://randomuser.me/api/portraits/women/2.jpg',
+    description: 'A passionate teacher with a love for children.',
+    address: {
+      lat: 51.5074,
+      lon: -0.1278,
+      addressLine: 'London, UK',
+    },
+  },
+  {
+    id: 4,
+    name: 'Michael Brown',
+    photo: 'https://randomuser.me/api/portraits/men/2.jpg',
+    description: 'A seasoned lawyer who specializes in corporate law.',
+    address: {
+      lat: 48.8566,
+      lon: 2.3522,
+      addressLine: 'Paris, France',
+    },
+  },
+  {
+    id: 5,
+    name: 'Sarah Williams',
+    photo: 'https://randomuser.me/api/portraits/women/3.jpg',
+    description: 'A marketing expert who helps businesses grow.',
+    address: {
+      lat: 40.7306,
+      lon: -73.9352,
+      addressLine: 'Brooklyn, NY, USA',
+    },
+  },
+  {
+    id: 6,
+    name: 'David Miller',
+    photo: 'https://randomuser.me/api/portraits/men/3.jpg',
+    description: 'A fitness coach focused on holistic health.',
+    address: {
+      lat: 37.7749,
+      lon: -122.4194,
+      addressLine: 'San Francisco, CA, USA',
+    },
+  },
+  {
+    id: 7,
+    name: 'Emily Davis',
+    photo: 'https://randomuser.me/api/portraits/women/4.jpg',
+    description: 'A writer who enjoys crafting thrilling mysteries.',
+    address: {
+      lat: 34.0522,
+      lon: -118.2437,
+      addressLine: 'Los Angeles, CA, USA',
+    },
+  },
+  {
+    id: 8,
+    name: 'James Wilson',
+    photo: 'https://randomuser.me/api/portraits/men/4.jpg',
+    description: 'A chef specializing in French cuisine.',
+    address: {
+      lat: 40.7306,
+      lon: -73.9352,
+      addressLine: 'New York, NY, USA',
+    },
+  },
+  {
+    id: 9,
+    name: 'Olivia Taylor',
+    photo: 'https://randomuser.me/api/portraits/women/5.jpg',
+    description: 'A passionate photographer capturing the world through her lens.',
+    address: {
+      lat: 35.6895,
+      lon: 139.6917,
+      addressLine: 'Tokyo, Japan',
+    },
+  },
+  {
+    id: 10,
+    name: 'Liam Anderson',
+    photo: 'https://randomuser.me/api/portraits/men/5.jpg',
+    description: 'A software developer with a focus on artificial intelligence.',
+    address: {
+      lat: 40.7306,
+      lon: -73.9352,
+      addressLine: 'Chicago, IL, USA',
+    },
+  },
+  {
+    id: 11,
+    name: 'Sophia Martinez',
+    photo: 'https://randomuser.me/api/portraits/women/6.jpg',
+    description: 'An architect with a keen eye for sustainable design.',
+    address: {
+      lat: 41.8781,
+      lon: -87.6298,
+      addressLine: 'Chicago, IL, USA',
+    },
+  },
+  {
+    id: 12,
+    name: 'Ethan Moore',
+    photo: 'https://randomuser.me/api/portraits/men/6.jpg',
+    description: 'A data scientist passionate about making sense of big data.',
+    address: {
+      lat: 52.5200,
+      lon: 13.4050,
+      addressLine: 'Berlin, Germany',
+    },
+  },
+  {
+    id: 13,
+    name: 'Mia Clark',
+    photo: 'https://randomuser.me/api/portraits/women/7.jpg',
+    description: 'A digital marketing strategist helping brands succeed online.',
+    address: {
+      lat: 48.1351,
+      lon: 11.5820,
+      addressLine: 'Munich, Germany',
+    },
+  },
+  {
+    id: 14,
+    name: 'Benjamin Harris',
+    photo: 'https://randomuser.me/api/portraits/men/7.jpg',
+    description: 'A musician with a love for classical compositions.',
+    address: {
+      lat: 40.7128,
+      lon: -74.0060,
+      addressLine: 'New York, NY, USA',
+    },
+  },
+  {
+    id: 15,
+    name: 'Charlotte Young',
+    photo: 'https://randomuser.me/api/portraits/women/8.jpg',
+    description: 'A passionate environmentalist working on renewable energy solutions.',
+    address: {
+      lat: 34.0522,
+      lon: -118.2437,
+      addressLine: 'Los Angeles, CA, USA',
+    },
+  },
+  {
+    id: 16,
+    name: 'Henry Walker',
+    photo: 'https://randomuser.me/api/portraits/men/8.jpg',
+    description: 'A seasoned entrepreneur with a focus on tech startups.',
+    address: {
+      lat: 39.7392,
+      lon: -104.9903,
+      addressLine: 'Denver, CO, USA',
+    },
+  },
+];

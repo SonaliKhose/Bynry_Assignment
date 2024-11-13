@@ -1,0 +1,14 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add global styles */
+body {
+    @apply bg-gray-100 font-sans;
+  }
+  
+  button {
+    @apply text-sm;
+  }
+  
